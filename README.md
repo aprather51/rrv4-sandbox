@@ -5,11 +5,10 @@ A simple expermential or playground with React Router v4 Created by Arthur Prath
 - Create-React-App
 - React-Router-dom (react router v4)
 
-## Expermenting with...
-- <BrowserRoute> or <Router> and setups.
-- <Route>, Path, Component, Exact
-- <Switch> prior to exact url path.
-- <NavLink> 
-- <Link> and etc...
+## Expermenting or Understanding...
+* understanding things about `<BrowserRoute>` or `<Router>` and its setups.
+* in depth on `<Route>`, `path=""`, `component={}`, `exact`.
+* Playing with `<Switch>` prior to exact url path.
+* Expermenting with `<NavLink>`, `<Link>` and etc...
 
 
