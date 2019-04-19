@@ -1,28 +1,42 @@
 * {
-  box-sizing: border-box;
+	box-sizing: border-box;
 }
 
 body {
-  background-color: papayawhip;
-  color: tomato;
+	background-color: papayawhip;
+	color: tomato;
 }
 
 nav {
-  display: flex;
-  justify-content: flex-end;
+	display: flex;
+	justify-content: flex-end;
 }
 a {
-  margin: 0 10px;
-  color: inherit;
-  text-decoration: none;
-  border-bottom: 2px solid none;
-  transition: all 0.2s ease-out;
-  &:hover {
-    border-bottom: 2px solid tomato;
-  }
+	margin: 0 10px;
+	color: inherit;
+	text-decoration: none;
+	border-bottom: 2px solid none;
+	transition: all 0.2s ease-out;
+	&:hover {
+		border-bottom: 2px solid tomato;
+	}
 }
 
 .info {
-  display: flex;
-  flex-direction: column;
+	display: flex;
+	flex-direction: column;
+}
+
+.container {
+	max-width: 960px;
+	margin: 0 auto;
+}
+
+.nav-container {
+	max-width: 1200px;
+}
+
+.active {
+	font-weight: bold;
+	border-bottom: 2px solid tomato;
 }
