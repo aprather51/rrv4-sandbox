@@ -1,0 +1,2 @@
+*{box-sizing:border-box}body{background-color:#ffefd5;color:tomato}nav{display:flex;justify-content:flex-end}a{margin:0 10px;color:inherit;text-decoration:none;border-bottom:2px;-webkit-transition:all .2s ease-out;transition:all .2s ease-out}a:hover{border-bottom:2px solid tomato}.info{display:flex;flex-direction:column}.container{max-width:960px;margin:0 auto}.nav-container{max-width:1200px}.active{font-weight:700;border-bottom:2px solid tomato}
+/*# sourceMappingURL=main.bb279754.chunk.css.map */
