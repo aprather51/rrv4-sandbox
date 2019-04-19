@@ -1,2 +1,9 @@
 # node modules
 node_modules
+
+# yarn thing
+yarn.lock
+yarn-error.log
+
+# build
+build/
