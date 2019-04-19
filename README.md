@@ -1,11 +1,14 @@
 # rrv4-sandbox
-A simple expermential or playground with React Router v4 Created by Arthur Prather,Jr from CodeSandbox.io. https://codesandbox.io/s/github/aprather51/rrv4-sandbox
+My basic sandbox on React Router v4
 
-## Dependenices and Template Used
-- Create-React-App
-- React-Router-dom (react router v4)
+[DEMO](https://aprather51.github.io/rrv4-sandbox/)
 
-## Expermenting or Understanding...
+## Dependenices 
+- React
+- react-router-dom (react router v4)
+- node-sass
+
+## Learning Progress
 * understanding things about `<BrowserRoute>` or `<Router>` and its setups.
 * in depth on `<Route>`, `path=""`, `component={}`, `exact`.
 * Playing with `<Switch>` prior to exact url path.
